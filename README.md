@@ -1,3 +1,3 @@
-All the things
+## All the things
 
--- [/docs](/docs) - Read all the things
+### [/docs](/docs) - Read all the things
