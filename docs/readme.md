@@ -1,4 +1,4 @@
-# 🐱‍👓
+# 🐱‍👓 /docs
 
 ## [PRODUCT.md](PRODUCT.md) - An Overview of Product thoughts
 
