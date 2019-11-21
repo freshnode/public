@@ -33,3 +33,6 @@ Develop useful products.
 Make it easy to spread the love.
 
 Be very selective on how the product evolves.
+
+---
+https://freshnode.net/product
