@@ -1,2 +1,1 @@
-# public
 All the things
