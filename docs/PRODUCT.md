@@ -6,7 +6,7 @@ These are my selected, opinionated and very condensed thoughts on developing, gr
 
 When developing a product, _usefulness_ is the primary — if not only — concern to focus on. If it isn't _useful_, it is not a product. You may be able to sell a useless thing to others, but I call that a _scam_ rather than a product.
 
-A useful way of quantifying usefulness, is the popular _product/market fit_ — or in other words, “How _essential_ is this product for your customer?”. If they _can't_ live without your product, you have found perfect product/market fit, and many desirable paths open up for you.
+A useful way of quantifying usefulness, is the popular _product/market fit_ — or in other words, “How _essential_ is this product for your customer?”.  If they _can't_ live without your product, it _solves essential problems_ for them, and you have found perfect product/market fit.
 
 Make sure you have a _robust_ and _iterative_ approach to determining product/market fit throughout all stages of the product lifetime. _Robust_ — as in ensuring that testing always happens, and can't be tainted or subdued by other less-critical concerns, such as _brand value_, _budget_ or _scheduling_. _Iterative_ — as in running a constant cycle of __assume__ ➡ __build__ ➡ __test__ ➡ __adjust__. You _assume_ something will improve product/market fit, based on former iterations and current knowledge. You _build_ based on those assumptions, and quickly _test_ the validity of the assumptions. Finally, you can _adjust_ based on your tests, and make new assumptions for the next iteration. Useful iterations create useful products.
 
